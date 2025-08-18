@@ -6,7 +6,7 @@ It provides endpoints to manage:
 - Salespeople
 - Sales records
 
-Deployed using **Docker** on [Render]((https://springboot-store.onrender.com/)), with **Supabase Postgres** as the database.
+Deployed using **Docker** on [Render] @ (https://springboot-store.onrender.com/), with **Supabase Postgres** as the database.
 
 ---
 
